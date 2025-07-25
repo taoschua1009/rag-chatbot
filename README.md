@@ -2,7 +2,7 @@
 ## ⚙️ Setup
 1. Clone this repo:                     
     ```bash
-    -   git clone 
+    -   git clone https://github.com/taoschua1009/rag-chatbot.git
     -   cd rag-bot
 2. Download the library:                
     -   pip install -r requirements.txt
