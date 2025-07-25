@@ -1,4 +1,4 @@
-# RAG Test – OptiSigns Scraper & Vector Store Uploader
+# RAG Test – 
 ## ⚙️ Setup
 1. Clone this repo:                     ```bash
                                         git clone 
